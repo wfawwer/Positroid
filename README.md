@@ -5,6 +5,7 @@ NOTE: THIS IS SUPER OUTDATED: SEE https://arxiv.org/abs/1701.08483 FOR A MUCH FA
 Some code created for research work over 2016 and 2017 summers. positroid.java checks the concordancy of two positroids, with input format of the form 
 
 n k
+
 permutation
 
 i.e
