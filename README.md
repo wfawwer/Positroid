@@ -10,8 +10,11 @@ permutation
 i.e
 
 6 2
+
 513462
+
 6 3
+
 514362
 
 where n represents the ground set, k represents the rank and permutation the decorated permutation of the positroid. permuter.java takes as input a single positroid and returns all positroids concordant to it.
